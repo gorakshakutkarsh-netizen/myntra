@@ -1,0 +1,194 @@
+.navbar
+	{
+	float:left;
+	height:16%;
+	width:101.6%;
+	background-color:white;
+	margin-left:-1%;
+	margin-top:-1%;
+	position:fixed;
+	}
+	
+.imgs
+	{
+	float:left;
+	height:80%;
+	width:6.5%;
+	margin-left:2.5%;
+	margin-top:0.5%;
+	}	
+	
+.men
+	{
+	float:left;
+	margin-left:2%;
+	margin-top:2.8%;
+	font-size:16px;
+	}	
+
+.men:hover
+	{
+	float:left;
+    color: red;
+   
+	}	
+	
+.women
+	{
+	float:left;
+	margin-left:2.5%;
+	margin-top:2.8%;
+	font-size:16px;
+	}	
+	
+.women:hover
+	{
+	float:left;
+	color:#ED153C;
+	}	
+	
+.womens
+	{
+	float:left;
+	margin-left:2.5%;
+	margin-top:2.6%;
+	font-size:16px;
+	}	
+
+.womens:hover
+	{
+	float:left;
+	color:#ED153C;
+	}	
+	
+.new
+	{
+	color:#ED153C;
+	}	
+	
+.input 
+	{
+	float:left;
+	height:40%;
+	width:25%;
+	margin-top:2%;
+	margin-left:3%;
+	padding-left:1%;
+	background-color:#F7F7F7;
+	text-decoration:none;
+	border:1px solid #F7F7F7;
+	}	
+	
+.profile
+	{
+	float:left;
+	height:60%;
+	width:4%;
+	margin-left:2%;
+	margin-top:1.5%;
+	}	
+	
+.files
+	{
+	float:left;
+	margin-top:10%;
+	margin-left:15%;
+	}	
+	
+.profiles
+	{
+	float:left;
+	height:60%;
+	width:4%;
+	margin-left:0.5%;
+	margin-top:1.5%;
+	}	
+	
+	
+.filess
+	{
+	float:left;
+	margin-top:12%;
+	margin-left:2%;
+	}	
+	
+	
+.fileas
+	{
+	float:left;
+	margin-top:12%;
+	margin-left:25%;
+	}	
+	
+.imgsa	
+	{
+	float:left;
+	height:15%;
+	width:80%;
+	margin-top:8%;
+	margin-left:10%;
+	}	
+
+.imgsas
+	{
+	float:left;
+	height:60%;
+	width:90%;
+	margin-top:1%;
+	margin-left:5%;
+	}	
+	
+.ims
+	{
+	float:left;
+	height:40%;
+	width:90.5%;
+	margin-top:-2%;
+	margin-left:5%;
+	}	
+	
+.by
+	{
+	float:left;
+	height:15%;
+	width:91%;
+	background-color:#FEEBD1;
+	margin-top:2%;
+	margin-left:5%;
+	}	
+	
+.text
+	{
+	float:left;
+	color:#C5500C;
+	margin-left:35%;
+	}
+	
+.aceme
+	{
+	float:left;	
+	height:38%;
+	width:91%;
+	margin-top:2%;
+	margin-left:5%;
+	margin-bottom:5%;
+	}	
+	
+.first
+	{
+	float:left;
+	height:100%;
+	width:15%;
+	margin-left:1.5%;
+	}	
+	
+.acemes
+	{
+	clear:left;	
+	height:38%;
+	width:91%;
+	margin-top:-2%;
+	margin-left:5%;
+	margin-bottom:5%;
+	}	
+	
